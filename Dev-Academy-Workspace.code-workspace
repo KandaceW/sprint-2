@@ -1,4 +1,26 @@
-{
+// Controls auto save of dirty files. Read more about autosave [here](https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save).
+[ //code.visualstudio.]
+//code.visualstudio.com/docs/editor/codebasics#_save-auto-save
+//code.visualstudio.com/docs/editor/codebasics#_multicursor-modifier
+//code.visualstudio.com/docs/editor/codebasics#_advanced-search-options
+
+
+    "tfvc.location",  "/kmama/workspace/TEE-CLC-14.114.0/tfS/,",
+]
+    "workbench.startupEditor": "newUntitledFile",
+"git.autofetch": true,
+"diffEditor.renderSideBySide": true,
+"files.autoSave": "afterDelay",
+"diffEditor.ignoreTrimWhitespace": true,
+"files.associations": {
+    "Kandace-Willcox": "java",
+    "*.md": "bat",
+    "*.rtf": "javascript",
+    ".gitconfig": "javascript"
+},
+"[javascript]": {},
+"window.zoomLevel": 0
+}{
 	"folders": [
 		{
 			"path": "."
