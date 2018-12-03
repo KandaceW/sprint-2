@@ -1,4 +1,23 @@
-// Controls auto save of dirty files. Read more about autosave [here](https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save).
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>HTML Template</title>
+    </head>
+    <body>
+        
+    </body>
+</html>
+	"folders": [
+		{
+			"path": "/Users/kmama/Workspace/School-Dev-Academy/foundations-master/sprint-1/ko-wai-koe"
+		},		{
+			"path": "/Users/kmama/Workspace/School-Dev-Academy/foundations-master/sprint-1"
+		}
+	],
+	"settings": {// Controls auto save of dirty files. Read more about autosave [here](https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save).
 [ //code.visualstudio.]
 //code.visualstudio.com/docs/editor/codebasics#_save-auto-save
 //code.visualstudio.com/docs/editor/codebasics#_multicursor-modifier
@@ -20,11 +39,5 @@
 },
 "[javascript]": {},
 "window.zoomLevel": 0
-}{
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+}{}
 }
